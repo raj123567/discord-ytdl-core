@@ -54,6 +54,6 @@
     "devDependencies": {
         "ffmpeg-static": "^4.2.6",
         "node-opus": "^0.3.2",
-        "ytdl-core": "^4.0.5"
+        "ytdl-core": "^4.4.3"
     }
 }
